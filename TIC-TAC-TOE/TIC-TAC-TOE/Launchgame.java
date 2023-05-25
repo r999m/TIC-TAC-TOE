@@ -157,7 +157,12 @@ public class App {
         else {
             System.out.println(
                     "Congratulations! " + winner
-                            + "'s have won! Thanks for playing.");
+                            + "'s have won! ");
+
         }
+        System.out.println(
+                "Thanks for playing. Hii!! I am Rahul star me in github ");
+    }
+}
     }
 }
